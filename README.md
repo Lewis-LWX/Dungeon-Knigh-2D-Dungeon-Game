@@ -6,7 +6,17 @@ You can play by downloading _MyFinalProject.exe_
 
 Due to limitations, I cannot upload the complete code. If you are interested in this game after playing it, feel free to contact me.
 
+# Start
+![image](https://github.com/Lewis-LWX/Dungeon-Knigh-2D-Dungeon-Game/blob/master/image/start.png)
+
 # Here are some screenshots of the game:
 ![image](https://github.com/Lewis-LWX/Dungeon-Knigh-2D-Dungeon-Game/blob/master/image/game1.png)
 ![image](https://github.com/Lewis-LWX/Dungeon-Knigh-2D-Dungeon-Game/blob/master/image/game2.png)
 ![image](https://github.com/Lewis-LWX/Dungeon-Knigh-2D-Dungeon-Game/blob/master/image/game3.png)![image](https://github.com/Lewis-LWX/Dungeon-Knigh-2D-Dungeon-Game/blob/master/image/game4.png)
+
+# Setting
+![image](https://github.com/Lewis-LWX/Dungeon-Knigh-2D-Dungeon-Game/blob/master/image/setting.png)
+
+# Mechanism
+![image](https://github.com/Lewis-LWX/Dungeon-Knigh-2D-Dungeon-Game/blob/master/image/weapon.png)
+![image](https://github.com/Lewis-LWX/Dungeon-Knigh-2D-Dungeon-Game/blob/master/image/potions.png)
